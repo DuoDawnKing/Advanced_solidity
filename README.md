@@ -1,1 +1,2 @@
-# Advanced_solidity
+In this code, we will be developing a crowdsale token that will be used and connect various accounts to purchase the token. In order to do this, we would need to make two different solidity files. The first solidity account is called KaseiCoin.py, which will be used to inherit the ERC20, ERC20detailed, and ERC20Mintable. The second solidity code is the KaseiCoinCrowdsale, which will be used to create the deployer, the contructor and the paramters for all the features. It will develop the token and then assign the address of the both the token and the contract to the addresses and then mint. The video below will show the process 
+
